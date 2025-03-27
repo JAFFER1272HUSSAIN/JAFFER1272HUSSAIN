@@ -16,7 +16,7 @@ I have a strong foundation in **Object-Oriented Programming (OOP), Data Structur
 🔑 **Face Verification System** – Secure liveness detection  
 📊 **Car Price Prediction** – ML-based pricing model  
 🔐 **Vital Hub (Password Manager Module)** – Secure password management  
-📊 **Student Data Cleansing & Outlier Detection** – Data processing & visualization  
+📊 **Customer Segmentation** – Data processing & visualization  
 
 ## 📬 Let's Connect!  
 🌐 **Portfolio:** Coming Soon!  
