@@ -17,8 +17,7 @@ I have a strong foundation in **Object-Oriented Programming (OOP), Data Structur
 
 📊 **[Car Price Prediction](https://github.com/JAFFER1272HUSSAIN/Cars-Price-Prediction)** – 📈 ML & DL-based pricing model  
   
-🔐 **[Vital Hub (Password Manager Module)](https://github.com/JAFFER1272HUSSAIN/Password-Manager-Vital-Hub)**  
-🔑 Secure password management  
+🔐 **[Vital Hub (Password Manager Module)](https://github.com/JAFFER1272HUSSAIN/Password-Manager-Vital-Hub)** – 🔑 Secure password management  
 
 📊 **[Customer Segmentation](https://github.com/JAFFER1272HUSSAIN/Customer-Segementation)** – 📉 Data processing & visualization  
 
