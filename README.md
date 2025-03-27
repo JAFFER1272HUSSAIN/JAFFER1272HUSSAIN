@@ -5,18 +5,24 @@ I specialize in building **scalable applications, AI-driven solutions, and secur
 I have a strong foundation in **Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design & Analysis of Algorithms (DAA), and Databases (DB).**  
 
 ## 💻 Tech Stack  
-🔹 **Full-Stack Development:** MERN, Django, .NET, Spring Boot  
-🔹 **AI & Machine Learning:** NLP, Deep Learning, Computer Vision  
+🔹 **Full-Stack Development:** MERN, MEAN, .NET, Kotlin 
+🔹 **AI & Machine Learning:** Aritificial Intelligence, Machine Learning, Deep Learning, Computer Vision  
 🔹 **Data Science:** Data Analysis, Prediction Models, Visualization  
 🔹 **Cybersecurity:** Secure Authentication, Face Verification  
-🔹 **Core CS Concepts:** OOP, DSA, DAA, Databases  
+🔹 **Core CS Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design & Analysis of Algorithms (DAA), and Databases (DB), Operating System (OS), Computer Networks (CN), and Information Security (IS)  
 
 ## 📂 Projects  
-💡 **DostCare** – AI-driven mental health support  
-🔑 **Face Verification System** – Secure liveness detection  
-📊 **Car Price Prediction** – ML-based pricing model  
-🔐 **Vital Hub (Password Manager Module)** – Secure password management  
-📊 **Customer Segmentation** – Data processing & visualization  
+
+💡 **[DostCare](https://github.com/JAFFER1272HUSSAIN/DostCare-App)** – 🤖 AI-driven mental health support  
+📊 **[Car Price Prediction](https://github.com/JAFFER1272HUSSAIN/Cars-Price-Prediction)** – 📈 ML & DL-based pricing model  
+🔐 **[Vital Hub (Password Manager Module)](https://github.com/JAFFER1272HUSSAIN/Password-Manager-Vital-Hub)** – 🔑 Secure password management  
+📊 **[Customer Segmentation](https://github.com/JAFFER1272HUSSAIN/Customer-Segementation)** – 📉 Data processing & visualization  
+📚 **[Classes Management System](https://github.com/JAFFER1272HUSSAIN/Classes-Management-System)** – 🏫 Student attendance, results & schedule management 
+💻 **[Software House Management System (PF)](https://github.com/JAFFER1272HUSSAIN/SoftwareHouseManagementSystem)** – 🏢 Basic software house system in C  
+💻 **[Software House Management System (OOP)](https://github.com/JAFFER1272HUSSAIN/SHMS-OOP)** – 🏢 C# .NET GUI-based system  
+🖥 **[Operating System Project](https://github.com/JAFFER1272HUSSAIN/Process-Tracker-And-Manager)** – ⚙️ Process tracking & scheduling  
+ 
+
 
 ## 📬 Let's Connect!  
 🌐 **Portfolio:** Coming Soon!  
