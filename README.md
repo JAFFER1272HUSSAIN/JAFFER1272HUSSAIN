@@ -6,9 +6,13 @@ I have a strong foundation in **Object-Oriented Programming (OOP), Data Structur
 
 ## 💻 Tech Stack  
 🔹 **Full-Stack Development:** MERN, MEAN, .NET, Kotlin 
+
 🔹 **AI & Machine Learning:** Aritificial Intelligence, Machine Learning, Deep Learning, Computer Vision  
+
 🔹 **Data Science:** Data Analysis, Prediction Models, Visualization  
+
 🔹 **Cybersecurity:** Secure Authentication, Face Verification  
+
 🔹 **Core CS Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design & Analysis of Algorithms (DAA), and Databases (DB), Operating System (OS), Computer Networks (CN), and Information Security (IS)  
 
 ## 📂 Projects  
