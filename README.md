@@ -13,29 +13,22 @@ I have a strong foundation in **Object-Oriented Programming (OOP), Data Structur
 
 ## 📂 Projects  
 
-💡 **[DostCare](https://github.com/JAFFER1272HUSSAIN/DostCare-App)**  
-🤖 AI-driven mental health support  
+💡 **[DostCare](https://github.com/JAFFER1272HUSSAIN/DostCare-App)** – 🤖 AI-driven mental health support   
 
-📊 **[Car Price Prediction](https://github.com/JAFFER1272HUSSAIN/Cars-Price-Prediction)**  
-📈 ML & DL-based pricing model  
-
+📊 **[Car Price Prediction](https://github.com/JAFFER1272HUSSAIN/Cars-Price-Prediction)** – 📈 ML & DL-based pricing model  
+  
 🔐 **[Vital Hub (Password Manager Module)](https://github.com/JAFFER1272HUSSAIN/Password-Manager-Vital-Hub)**  
 🔑 Secure password management  
 
-📊 **[Customer Segmentation](https://github.com/JAFFER1272HUSSAIN/Customer-Segementation)**  
-📉 Data processing & visualization  
+📊 **[Customer Segmentation](https://github.com/JAFFER1272HUSSAIN/Customer-Segementation)** – 📉 Data processing & visualization  
 
-📚 **[Classes Management System](https://github.com/JAFFER1272HUSSAIN/Classes-Management-System)**  
-🏫 Student attendance, results & schedule management  
+📚 **[Classes Management System](https://github.com/JAFFER1272HUSSAIN/Classes-Management-System)** – 🏫 Student attendance, results & schedule management  
 
-💻 **[Software House Management System (PF)](https://github.com/JAFFER1272HUSSAIN/SoftwareHouseManagementSystem)**  
-🏢 Basic software house system in C  
+💻 **[Software House Management System (PF)](https://github.com/JAFFER1272HUSSAIN/SoftwareHouseManagementSystem)** – 🏢 Basic software house system in C  
 
-💻 **[Software House Management System (OOP)](https://github.com/JAFFER1272HUSSAIN/SHMS-OOP)**  
-🏢 C# .NET GUI-based system  
+💻 **[Software House Management System (OOP)](https://github.com/JAFFER1272HUSSAIN/SHMS-OOP)** – 🏢 C# .NET GUI-based system  
 
-🖥 **[Process Tracker & Manager](https://github.com/JAFFER1272HUSSAIN/Process-Tracker-And-Manager)**  
-⚙️ Process tracking & scheduling,python 
+🖥 **[Process Tracker & Manager](https://github.com/JAFFER1272HUSSAIN/Process-Tracker-And-Manager)** – ⚙️ Process tracking & scheduling,python 
 
  
 
