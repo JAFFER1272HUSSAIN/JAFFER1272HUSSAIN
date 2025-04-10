@@ -37,7 +37,7 @@ I have a strong foundation in **Object-Oriented Programming (OOP), Data Structur
 
 
 ## 📬 Let's Connect!  
-🌐 **Portfolio:** Coming Soon!  
+🌐 **Portfolio:** https://stunning-portfolio-jaffer.lovable.app/ 
 📧 **Email:** jaffer1272hussain@gmail.com  
 💼 **Upwork:** https://www.upwork.com/freelancers/~0165b67d456d183a98?mp_source=share 
 
