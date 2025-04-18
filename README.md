@@ -4,6 +4,7 @@
 I specialize in building **scalable applications, AI-driven solutions, and secure authentication systems.**  
 I have a strong foundation in **Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Design & Analysis of Algorithms (DAA), and Databases (DB).**  
 
+
 ## 💻 Tech Stack  
 🔹 **Full-Stack Development:** MERN, MEAN, .NET, Kotlin 
 
