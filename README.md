@@ -35,7 +35,6 @@ I have a strong foundation in **Object-Oriented Programming (OOP), Data Structur
 
  
 
-
 ## 📬 Let's Connect!  
 🌐 **Portfolio:** https://stunning-portfolio-jaffer.lovable.app/ 
 
